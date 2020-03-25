@@ -2,3 +2,26 @@
 .DS_Store
 
 capitulos/bibliografia/bibliografia.aux
+
+*.aux
+
+*.xml
+
+*.data
+
+main.toc
+
+main.synctex.gz
+
+*.lot
+
+*.log
+
+main.lof
+
+main.idx
+
+*.blg
+
+*.bbl
+
